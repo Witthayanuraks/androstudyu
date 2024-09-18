@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nav_chats" type="id">nav_chat</item>
+    <item name="nav_updates" type="id">nav_updates</item>
+    <item name="nav_communities" type="id">nav_communities</item>
+    <item name="nav_calls" type="id">nav_calls</item>
+</resources>

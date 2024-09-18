@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">disenapaja</string>
+        <string name="chats">Chats</string>
+        <string name="updates">Updates</string>
+        <string name="communities">Communities</string>
+        <string name="calls">Calls</string>
+    <string name="todo">TODO</string>
+    <string name="profile">Profile</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="camera">Camera</string>
+    <string name="search">Search</string>
+    <string name="action_settings" />
+
+</resources>
